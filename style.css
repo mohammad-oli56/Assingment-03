@@ -5,11 +5,11 @@ body{
 }
 
 .ani{
-  background: linear-gradient(90deg, #00FFFF,#3c63ef90,#F7E7CE,#DC143C ,#00FFFF);
+  background: linear-gradient(90deg, #ff0000,#3cdcccdb,#ff00f3,#0033fe ,#ff00c3cb,#19cbb992,#f31f1fc7);
   background-size: 200%;
   background-clip: text;
   color: transparent;
-  animation: text-animation 1s infinite;
+  animation: text-animation 4s infinite;
 }
 
 @keyframes text-animation{
