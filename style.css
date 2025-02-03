@@ -9,7 +9,7 @@ body{
   background-size: 200%;
   background-clip: text;
   color: transparent;
-  animation: text-animation 4s infinite;
+  animation: text-animation 4 s infinite;
 }
 
 @keyframes text-animation{
